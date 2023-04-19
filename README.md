@@ -1,3 +1,3 @@
-# Simple Discord Bot 🤖
-A discord bot written in python.
-The code is under the 'master' branch.
+## simple discord bot
+an outdated discord bot demo written in python
+all the code's under the master branch
